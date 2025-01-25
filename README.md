@@ -17,6 +17,6 @@ I'm Ben, an almost graduated student at Brigham Young University Idaho! I'm stud
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] profile
+- Here is my [LinkedIn] profile - https://www.linkedin.com/in/benjamin-ja-lebeau/
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
