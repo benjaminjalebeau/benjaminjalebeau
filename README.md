@@ -6,18 +6,17 @@ I'm Ben, an almost graduated student at Brigham Young University Idaho! I'm stud
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently working on my .NET blazor skills as I'm collaborating with a couple different teams and projects.
+- I'm looking to get started in the Software Engineering field as a Full-Stack Developer
+- My next project I'm planning on learning React in combination with .NET core and SQL.
+- I love working with others, especially learning with them as we overcome challenges together.
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: JavaScript, CSS, HTML, Node, Express, Web API, HTML, .NET, Blazor, C#, Python, Java, MySQL, PostgreSQL, SQLite, MongoDB, Git, GitHub, Azure DevOps, Scrum, Agile
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [LinkedIn] profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
