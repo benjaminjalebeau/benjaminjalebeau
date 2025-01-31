@@ -16,7 +16,7 @@ I'm Ben, an almost graduated student at Brigham Young University Idaho! I'm stud
 - Proficient in: JavaScript, CSS, HTML, Node, Express, Web API, HTML, .NET, Blazor, C#, Python, Java, MySQL, PostgreSQL, SQLite, MongoDB, Git, GitHub, Azure DevOps, Scrum, Agile
 
 ## Projects
-Here is a list of links where you can view some of my projects! Some of the links will take a minute to load.
+Here is a list of links where you can view some of my projects! Some of the links will take a minute to load(Got to love free services).
 - FindaPet https://remarkable-blini-3e5cdf.netlify.app/ Node, API integration, HTML, CSS, JS
 - Vehicle Managment https://vehicle-management-7tvk.onrender.com Express, PostgreSQL, Node, JWT
 - StudentsAPI https://cse341-t16-fp.onrender.com/api-docs Node, Swagger, JS, MongoDB
