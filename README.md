@@ -6,7 +6,7 @@ I'm Ben, an almost graduated student at Brigham Young University Idaho! I'm stud
 
 ## About Me
 
-- I'm currently working on my .NET blazor skills as I'm collaborating with a couple different teams and projects.
+- I'm currently working on my React/Nextjs skills 
 - I'm looking to get started in the Software Engineering field as a Full-Stack Developer
 - My next project I'm planning on learning React in combination with .NET core and SQL.
 - I love working with others, especially learning with them as we overcome challenges together.
@@ -18,6 +18,8 @@ I'm Ben, an almost graduated student at Brigham Young University Idaho! I'm stud
 ## Projects
 Here is a list of links where you can view some of my projects! Some of the links will take a minute to load(Got to love free services).
 - FindaPet https://remarkable-blini-3e5cdf.netlify.app/ Node, API integration, HTML, CSS, JS
+- Handcrafted Haven https://wdd-430-team13-89xf.vercel.app/ React, Next.js, Tailwind, PostgreSQL
+- Doctor Appointment Manger https://doctorappointmentscheduler.azurewebsites.net/ .Net, Blazor, SQLite, JWT
 - Vehicle Managment https://vehicle-management-7tvk.onrender.com Express, PostgreSQL, Node, JWT
 - StudentsAPI https://cse341-t16-fp.onrender.com/api-docs Node, Swagger, JS, MongoDB
 - https://southslopewebsite.onrender.com This was my very first website I made for a client when I was starting out! HTML, CSS, JS
