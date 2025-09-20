@@ -7,8 +7,7 @@ I'm Ben I'm a recent gradutate from BYU-I with a BS in software development. I'm
 ## About Me
 
 - I'm currently working on my React/Nextjs skills 
-- I'm looking to get started in the Software Engineering field as a Full-Stack Developer
-- I'm currently helping redesign a few professional websites. 
+- I'm currently working as a database/web engineer for The Computer Manager
 - I love working with others, especially learning with them as we overcome challenges together.
 
 ## Technologies and Tools
