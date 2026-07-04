@@ -1,39 +1,23 @@
-# Benjamin James LeBeau
 
-Hello, GitHub! 👋
+# Hi, I'm Ben 👋
 
-I'm Ben I'm a recent gradutate from BYU-I with a BS in software development. I'm a full-stack web developer with experience developing with multiple frameworks and languages such as .NET, Next.Js, Node, and more. 
+Full-stack software engineer building modern web applications with TypeScript, React, Next.js, and Node.js.
 
-## About Me
+## Currently
 
-- I'm currently working on my React/Nextjs skills 
-- I'm currently working as a database/web engineer for The Computer Manager
-- I love working with others, especially learning with them as we overcome challenges together.
+- Software Engineering Intern @ FamilySearch
+- Full-Stack Engineer @ Utah Kids Foundation
+- Full-Stack Developer @ United Angels Foundation
 
-## Technologies and Tools
+## Stack
 
-Languages: JavaScript, TypeScript, Python, Java, C#, HTML, CSS, 
+TypeScript · JavaScript · React · Next.js · Node.js · Remix · Prisma · PostgreSQL · SQL Server · AWS · Supabase · Stripe
 
-Frameworks: .NET, ASP.NET Core, Blazor, Node.js, Express, Next.js, React
+---
 
-Databases: PostgreSQL, MySQL, MongoDB, SQLite
+**B.S. Software Development**  
+BYU–Idaho (2025)
 
-Tools: Postman, Swagger, Jira (RTM/Test Management), Pytest, Zod, Express-Validator, Jest
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/benjamin-ja-lebeau/
 
-Cloud & Hosting: Azure, Vercel, Render, Netlify, VPS
-
-
-## Projects
-Here is a list of links where you can view some of my projects! Some of the links will take a minute to load(Got to love free services).
-- FindaPet https://remarkable-blini-3e5cdf.netlify.app/ Node, API integration, HTML, CSS, JS
-- Handcrafted Haven https://wdd-430-team13-89xf.vercel.app/ React, Next.js, Tailwind, PostgreSQL
-- Doctor Appointment Manger https://doctorappointmentscheduler.azurewebsites.net/ .Net, Blazor, SQLite, JWT
-- Vehicle Managment https://vehicle-management-7tvk.onrender.com Express, PostgreSQL, Node, JWT
-- StudentsAPI https://cse341-t16-fp.onrender.com/api-docs Node, Swagger, JS, MongoDB
-- https://southslopewebsite.onrender.com This was my very first website I made for a client when I was starting out! HTML, CSS, JS
-
-## Let's Connect!
-
-- Here is my [LinkedIn] profile - https://www.linkedin.com/in/benjamin-ja-lebeau/
-
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
