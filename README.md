@@ -1,7 +1,7 @@
 
 # Hi, I'm Ben 👋
 
-Full-stack software engineer building modern web applications with TypeScript, React, Next.js, and Node.js.
+Full-stack software engineer building modern web applications and AI-driven systems.
 
 ## Currently
 
@@ -11,7 +11,7 @@ Full-stack software engineer building modern web applications with TypeScript, R
 
 ## Stack
 
-TypeScript · JavaScript · React · Next.js · Node.js · Remix · Prisma · PostgreSQL · SQL Server · AWS · Supabase · Stripe
+TypeScript · React · Next.js · Node.js · Remix · Prisma · PostgreSQL · SQL Server · AWS · Supabase · Stripe
 
 ---
 
