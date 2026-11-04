@@ -1,22 +1,10 @@
+## AI Platform Engineer at Family Search 
+Building the infrastructure organizations use to run agents safely: gateways, harness environments, observability, and cost controls.
 
-# Hi, I'm Ben 👋
+Most of my current work is in private repositories, so it won't show up here.
 
-Full-stack software engineer building modern web applications and AI-driven systems.
+**Stack:** TypeScript · AWS · Kubernetes · GitOps · Next.js
 
-## Currently
-
-- Software Engineering Intern @ FamilySearch
-- Full-Stack Engineer @ Utah Kids Foundation
-- Full-Stack Developer @ United Angels Foundation
-
-## Stack
-
-TypeScript · React · Next.js · Node.js · Remix · Prisma · PostgreSQL · SQL Server · AWS · Supabase · Stripe
-
----
-
-**B.S. Software Development**  
-BYU–Idaho (2025)
 
 🔗 **LinkedIn**  
 https://www.linkedin.com/in/benjamin-ja-lebeau/
